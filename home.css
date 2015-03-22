@@ -1,0 +1,125 @@
+/* line 2, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+html body {
+  width: 100%;
+  margin: 0 0 0 0; }
+  /* line 5, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body h1 {
+    padding-top: 50px; }
+  /* line 9, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body td, html body p {
+    text-align: center; }
+  /* line 12, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .navbar {
+    padding-right: 25px; }
+    /* line 14, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .navbar ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden; }
+    /* line 20, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .navbar img {
+      height: 50px;
+      float: left; }
+    /* line 24, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .navbar .navbar-right li a {
+      padding-left: 25px;
+      padding-right: 25px; }
+  /* line 29, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .navbar-title {
+    padding: 15px 15px 15px 15px;
+    color: #ffffff; }
+  /* line 33, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .jumbotron {
+    margin-bottom: 0px;
+    background-color: #2ecc71;
+    height: 600px; }
+    /* line 37, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .jumbotron h1 {
+      text-align: center;
+      font-family: 'Poiret One', cursive;
+      padding-top: 15%;
+      font-size: 1000%;
+      font-weight: bolder; }
+    /* line 44, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .jumbotron h2 {
+      text-align: center;
+      font-family: 'Poiret One', cursive;
+      font-size: 200%;
+      font-weight: bolder; }
+  /* line 51, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .preview-box {
+    height: 500px; }
+    /* line 53, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .preview-box h2 {
+      font-family: 'Coda', cursive;
+      font-weight: 800;
+      text-align: center;
+      font-size: 500%;
+      padding-top: 30%; }
+    /* line 60, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .preview-box button {
+      border: 2px solid #000000;
+      color: #000000;
+      background-color: #a8a8a8; }
+    /* line 65, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .preview-box button:hover {
+      background-color: #d8d8d8; }
+    /* line 68, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .preview-box a:visited {
+      color: #000000; }
+    /* line 71, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .preview-box button {
+      font-family: 'Coda', cursive;
+      font-weight: 600;
+      text-align: center;
+      padding: 5px 10px 5px 10px;
+      margin-left: 40%; }
+  /* line 79, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .mitosis {
+    background-image: url(mitosis-preview.png);
+    opacity: 0.5;
+    color: #ffffff; }
+  /* line 84, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .mitosis:hover {
+    opacity: 0.8;
+    color: #000000; }
+  /* line 88, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .meiosis {
+    background-image: url(meiosis-preview.jpg);
+    opacity: 0.5;
+    color: #ffffff; }
+  /* line 93, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .meiosis:hover {
+    opacity: 0.8;
+    color: #000000; }
+  /* line 97, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body .footer {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000; }
+    /* line 102, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body .footer p {
+      margin-bottom: 0;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      color: #ffffff; }
+  /* line 108, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+  html body table {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 32px;
+    font-family: 'Comfortaa', cursive; }
+    /* line 113, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body table td {
+      padding: 15px 15px 15px 15px;
+      border-right: 2px solid #000000; }
+    /* line 117, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body table .header {
+      font-size: 40px;
+      font-family: 'Patua One', cursive; }
+    /* line 121, /Users/shawnrobin/Desktop/Bio Website/home.scss */
+    html body table img {
+      width: 10%; }
+
+/*# sourceMappingURL=home.css.map */

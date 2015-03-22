@@ -1,0 +1,98 @@
+html {
+    body {
+        width: 100%;
+        margin: 0 0 0 0;
+        h1 {
+            padding-top: 50px;
+        }
+        td,
+        p {
+            text-align: center;
+        }
+        .navbar {
+            padding-right: 25px;
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            img {
+                height: 50px;
+                float: left;
+            }
+            .navbar-right li a {
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+        }
+        .navbar-title {
+            padding: 15px 15px 15px 15px;
+            color: #ffffff;
+        }
+        .jumbotron {
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        .footer {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #000000;
+            p {
+                margin-bottom: 0;
+                font-family: "Comic Sans MS", cursive, sans-serif;
+                color: #ffffff;
+            }
+        }
+        .table {
+            text-align: center;
+            margin-bottom: 0;
+            font-size: 24px;
+            font-family: 'Comfortaa', cursive;
+            .red {
+                background-color: #ffc0bb;
+            }
+            .orange {
+                background-color: #ffcc99;
+            }
+            .yellow {
+                background-color: #faf6bd;
+            }
+            .green {
+                background-color: #c6f0ab;
+            }
+            .blue {
+                background-color: #b9f2f9;
+            }
+            .purple {
+                background-color: #ccbdf0;
+            }
+            .row {
+                margin-right: 0;
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+            img {
+                height: 150px;
+                max-height: 150px;
+            }
+            .col-xs-4 {
+                padding: 0 0 0 0;
+                border-left: 3px solid #000000;
+            }
+            .header {
+                font-size: 40px;
+                font-family: 'Patua One', cursive;
+            }
+            .three-lines {
+                height: 150px;
+                line-height: 50px;
+            }
+            .one-line {
+                height: 150px;
+                line-height: 150px;
+            }
+        }
+    }
+}

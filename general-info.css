@@ -1,0 +1,97 @@
+/* line 2, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+html body {
+  width: 100%;
+  margin: 0 0 0 0; }
+  /* line 5, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+  html body h1 {
+    padding-top: 50px; }
+  /* line 9, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+  html body td, html body p {
+    text-align: center; }
+  /* line 12, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+  html body .navbar {
+    padding-right: 25px; }
+    /* line 14, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .navbar ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden; }
+    /* line 20, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .navbar img {
+      height: 50px;
+      float: left; }
+    /* line 24, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .navbar .navbar-right li a {
+      padding-left: 25px;
+      padding-right: 25px; }
+  /* line 29, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+  html body .navbar-title {
+    padding: 15px 15px 15px 15px;
+    color: #ffffff; }
+  /* line 33, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+  html body .jumbotron {
+    margin-bottom: 0;
+    padding-bottom: 0; }
+  /* line 37, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+  html body .footer {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000; }
+    /* line 42, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .footer p {
+      margin-bottom: 0;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      color: #ffffff; }
+  /* line 48, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+  html body .table {
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 24px;
+    font-family: 'Comfortaa', cursive; }
+    /* line 53, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .red {
+      background-color: #ffc0bb; }
+    /* line 56, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .orange {
+      background-color: #ffcc99; }
+    /* line 59, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .yellow {
+      background-color: #faf6bd; }
+    /* line 62, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .green {
+      background-color: #c6f0ab; }
+    /* line 65, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .blue {
+      background-color: #b9f2f9; }
+    /* line 68, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .purple {
+      background-color: #ccbdf0; }
+    /* line 71, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .row {
+      margin-right: 0;
+      padding-top: 10px;
+      padding-bottom: 10px; }
+    /* line 76, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table img {
+      height: 150px;
+      max-height: 150px; }
+    /* line 80, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .col-xs-4 {
+      padding: 0 0 0 0;
+      border-left: 3px solid #000000; }
+    /* line 84, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .header {
+      font-size: 40px;
+      font-family: 'Patua One', cursive; }
+    /* line 88, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .three-lines {
+      height: 150px;
+      line-height: 50px; }
+    /* line 92, /Users/shawnrobin/Desktop/Bio Website/general-info.scss */
+    html body .table .one-line {
+      height: 150px;
+      line-height: 150px; }
+
+/*# sourceMappingURL=general-info.css.map */

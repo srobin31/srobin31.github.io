@@ -1,1 +1,63 @@
-Hello World
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Coda' rel='stylesheet' type='text/css'>
+    <script src="jquery-1.11.2.js"></script>
+    <script src="typed.js-master/js/typed.js"></script>
+    <script>
+        $(function () {
+            $(".typed").typed({
+                strings: ["Chapter 8: Cell Reproduction"],
+                typeSpeed: 100,
+                loop: false
+            });
+        });
+    </script>
+    <link rel="stylesheet" href="home.css">
+    <title>Cell Reproduction</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <a href="index.html">
+            <ul class="nav navbar-nav">
+                <li><img src="bio-textbook.jpg">
+                </li>
+                <li class="navbar-title">Biology Chapter 8: Cell Reproduction</li>
+            </ul>
+        </a>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="mitosis.html">Mitosis</a>
+            </li>
+            <li><a href="meiosis.html">Meiosis</a>
+            </li>
+            <li><a href="general-info.html">General Info</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="jumbotron">
+        <h1>BIOLOGY</h1>
+        <h2 class="typed">Chapter 8: Cell Reproduction</h2>
+    </div>
+    <div class="col-xs-6 mitosis preview-box">
+        <h2>Mitosis</h2>
+        <a href="mitosis.html">
+            <button type="button">Learn More</button>
+        </a>
+    </div>
+
+    <div class="col-xs-6 meiosis preview-box">
+        <h2>Meiosis</h2>
+        <a href="meiosis.html">
+            <button type="button">Learn More</button>
+        </a>
+    </div>
+    <div class="footer">
+        <p>Shawn Robin | Biology Section 1 | March 23, 2015</p>
+    </div>
+</body>
+
+</html>
