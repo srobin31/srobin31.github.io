@@ -52,59 +52,56 @@ html body {
       margin-top: 15px;
       margin-bottom: 15px;
       margin-right: auto;
-      margin-left: auto; }
-    /* line 57, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+      margin-left: auto;
+      padding-right: 10px; }
+    /* line 58, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
     html body .stage .cell-picture {
       margin-top: 15px;
       margin-bottom: 15px;
       margin-left: auto;
       margin-right: auto;
       text-align: center; }
-    /* line 64, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    /* line 65, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
     html body .stage .col-xs-4 {
       padding: 0; }
-    /* line 67, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-    html body .stage .info {
-      padding-top: 10px;
-      font-family: 'Roboto', sans-serif; }
-      /* line 69, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-      html body .stage .info h1 {
-        font-family: 'Overlock', cursive;
-        text-align: center; }
-      /* line 75, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-      html body .stage .info .subheader {
-        font-weight: 800;
-        font-size: 16px; }
-      /* line 79, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-      html body .stage .info .all {
-        font-size: 18px;
-        font-weight: 400; }
-      /* line 83, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-      html body .stage .info .phase {
-        font-size: 15px; }
-      /* line 86, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-      html body .stage .info .col-xs-6 {
-        padding-left: 2px;
-        padding-right: 2px; }
-      /* line 90, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-      html body .stage .info .info-box-2 {
-        text-align: center;
-        padding-top: 8%; }
-        /* line 93, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-        html body .stage .info .info-box-2 ul {
-          list-style-type: none;
-          padding: 0; }
-      /* line 99, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
-      html body .stage .info .info-box-1 ul {
+    /* line 69, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    html body .stage .info h1 {
+      font-family: 'Overlock', cursive;
+      text-align: center; }
+    /* line 73, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    html body .stage .info .subheader {
+      font-weight: 800;
+      font-size: 16px; }
+    /* line 77, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    html body .stage .info .all {
+      font-size: 18px;
+      font-weight: 400; }
+    /* line 81, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    html body .stage .info .phase {
+      font-size: 15px; }
+    /* line 84, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    html body .stage .info .col-xs-6 {
+      padding-left: 2px;
+      padding-right: 2px; }
+    /* line 88, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    html body .stage .info .info-box-2 {
+      text-align: center;
+      padding-top: 8%; }
+      /* line 91, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+      html body .stage .info .info-box-2 ul {
         list-style-type: none;
         padding: 0; }
-  /* line 106, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    /* line 97, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    html body .stage .info .info-box-1 ul {
+      list-style-type: none;
+      padding: 0; }
+  /* line 104, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
   html body .footer {
     margin: 0;
     padding: 0;
     text-align: center;
     background-color: #000000; }
-    /* line 111, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
+    /* line 109, /Users/shawnrobin/Desktop/Bio Website/mitosis.scss */
     html body .footer p {
       margin-bottom: 0;
       font-family: "Comic Sans MS", cursive, sans-serif;

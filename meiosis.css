@@ -1,3 +1,113 @@
-
+/* line 2, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+html body {
+  width: 100%;
+  margin: 0 0 0 0;
+  background-color: #f5f5f5;
+  padding-top: 50px; }
+  /* line 7, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .navbar {
+    padding-right: 25px; }
+    /* line 9, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+    html body .navbar ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden; }
+    /* line 15, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+    html body .navbar img {
+      height: 50px;
+      float: left; }
+    /* line 19, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+    html body .navbar .navbar-right li a {
+      padding-left: 25px;
+      padding-right: 25px; }
+  /* line 24, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .navbar-title {
+    padding: 15px 15px 15px 15px;
+    color: #ffffff; }
+  /* line 28, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .interphase1 {
+    background-color: #f9c0b9; }
+  /* line 31, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .prophase1 {
+    background-color: #f9cbb9; }
+  /* line 34, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .metaphase1 {
+    background-color: #f9e0b9; }
+  /* line 37, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .anaphase1 {
+    background-color: #f2f9b9; }
+  /* line 40, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .telophase1 {
+    background-color: #ddf9b9; }
+  /* line 43, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .cytokinesis1 {
+    background-color: #b9f9c0; }
+  /* line 46, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .interphase2 {
+    background-color: #b9f9eb; }
+  /* line 49, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .prophase2 {
+    background-color: #b9f2f9; }
+  /* line 52, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .metaphase2 {
+    background-color: #b9ddf9; }
+  /* line 55, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .anaphase2 {
+    background-color: #c0b9f9; }
+  /* line 58, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .telophase2 {
+    background-color: #ebb9f9; }
+  /* line 61, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .cytokinesis2 {
+    background-color: #f9b9f2; }
+  /* line 64, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .meiosis1 {
+    position: relative;
+    background-color: #000000; }
+  /* line 68, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .stage {
+    margin: 0; }
+    /* line 71, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+    html body .stage .diagram img {
+      float: right;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-right: 10px; }
+    /* line 79, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+    html body .stage .col-xs-8, html body .stage .col-xs-3 {
+      padding: 0; }
+    /* line 82, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+    html body .stage .info {
+      text-align: center; }
+      /* line 84, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+      html body .stage .info h1 {
+        font-family: 'Overlock', cursive;
+        text-align: center; }
+      /* line 88, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+      html body .stage .info .subheader {
+        font-weight: 800;
+        font-size: 16px; }
+      /* line 92, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+      html body .stage .info ul {
+        list-style-type: none;
+        padding: 0; }
+      /* line 97, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+      html body .stage .info .info-box-1, html body .stage .info .info-box-2 {
+        text-align: left; }
+      /* line 100, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+      html body .stage .info .row {
+        margin-left: 0; }
+  /* line 105, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+  html body .footer {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000; }
+    /* line 110, /Users/shawnrobin/Desktop/Bio Website/meiosis.scss */
+    html body .footer p {
+      margin-bottom: 0;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      color: #ffffff; }
 
 /*# sourceMappingURL=meiosis.css.map */
